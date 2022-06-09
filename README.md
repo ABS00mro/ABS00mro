@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ABS00mro
+- 👋 Hi, I’m @ABSoomro
 - 👀 I’m interested in Front End Development
 - 🌱 I’m currently learning React JS
 - 💞️ I’m looking to collaborate on UI and React Project
